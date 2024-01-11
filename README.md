@@ -1,6 +1,6 @@
 # RiceBook-Backend
 
-frontend: https://rc118-ricebook.surge.sh/
-backend : https://mysocialserver-626bbb68c54b.herokuapp.com/
-username: "stephanie"
-password :"123"
+frontend: https://rc118-ricebook.surge.sh/ <br>
+backend : https://mysocialserver-626bbb68c54b.herokuapp.com/<br>
+username: "stephanie"<br>
+password :"123"<br>
